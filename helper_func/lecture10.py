@@ -36,7 +36,7 @@ class Account:
     balance (number): account balance in dollars.
     """
 
-    currency = '$' # class variable
+    currency = '$'  # class variable
 
     def __init__(self, account_holder):
         self.holder = account_holder

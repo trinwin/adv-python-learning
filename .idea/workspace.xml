@@ -1,23 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8a03c1f-8e98-4f8e-a4b3-167372f924c2" name="Default Changelist" comment="" />
+    <list default="true" id="d8a03c1f-8e98-4f8e-a4b3-167372f924c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CS122.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS122.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamlet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper_func/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_func/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper_func/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_func/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper_func/lecture10.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_func/lecture10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/homework3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/homework3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/homework4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/homework4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6/homework6.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/homework6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6/runme.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/runme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yesterday.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XrNGmV3UldM0FGbIibbzRG0RjD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.greeting">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+      <recent name="$PROJECT_DIR$/helper_func" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runme">
     <configuration name="greeting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS122" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -39,7 +68,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="songstats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/homework4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/homework5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +122,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/songstats.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw6/homework6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw6/runme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,8 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.runme" />
+        <item itemvalue="Python.homework6" />
+        <item itemvalue="Python.homework5" />
+        <item itemvalue="Python.homework4" />
         <item itemvalue="Python.greeting" />
-        <item itemvalue="Python.songstats" />
       </list>
     </recent_temporary>
   </component>
@@ -80,26 +196,57 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1582427964340">
+    <state width="1659" height="244" key="GridCell.Tab.0.bottom" timestamp="1583786237150">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582427964340" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1582427964338">
+    <state width="1659" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237150" />
+    <state width="1765" height="451" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401385" />
+    <state width="1659" height="307" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
+    <state width="1103" height="347" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909477" />
+    <state width="1659" height="244" key="GridCell.Tab.0.center" timestamp="1583786237149">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582427964338" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1582427964337">
+    <state width="1659" height="244" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237149" />
+    <state width="1765" height="451" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401384" />
+    <state width="1659" height="307" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
+    <state width="1103" height="347" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909476" />
+    <state width="1659" height="244" key="GridCell.Tab.0.left" timestamp="1583786237149">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582427964337" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1582427964339">
+    <state width="1659" height="244" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237149" />
+    <state width="1765" height="451" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401383" />
+    <state width="1659" height="307" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597663" />
+    <state width="1103" height="347" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909476" />
+    <state width="1659" height="244" key="GridCell.Tab.0.right" timestamp="1583786237150">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582427964339" />
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1582427894573">
+    <state width="1659" height="244" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237150" />
+    <state width="1765" height="451" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401384" />
+    <state width="1659" height="307" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
+    <state width="1103" height="347" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909477" />
+    <state x="343" y="359" key="SettingsEditor" timestamp="1583120646188">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="343" y="359" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1583120646188" />
+    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1583720656306">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582743055261" />
+    <state x="1063" y="490" key="com.intellij.ide.util.TipDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1583104753335" />
+    <state x="519" y="372" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583184893485" />
+    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1583720656306" />
+    <state x="305" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583781310955">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582427894573" />
+    <state x="305" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1583781310955" />
+    <state x="624" y="644" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1440@0.0.3440.1440" timestamp="1583129723028" />
+    <state x="558" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1583724128405">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="558" y="331" width="670" height="676" key="search.everywhere.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1583724128405" />
   </component>
 </project>

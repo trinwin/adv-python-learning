@@ -36,4 +36,11 @@ def infinite_double_generator():
 
 def hailstone(number):
     # Remove the pass statement and type in your code below
-    pass
+    current = number
+    while current > 1:
+        yield current
+        if current % 2 == 0:  # if current is even
+            current = current // 2
+        else:  # if current is odd
+            current = 3 * current + 1
+    yield current

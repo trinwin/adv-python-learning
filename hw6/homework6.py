@@ -4,6 +4,8 @@
 #
 # Author(s): Mandeep Pabla and Trinh Nguyen
 # ----------------------------------------------------------------------
+
+
 class Product:
     """
     Represent a Product
@@ -69,18 +71,16 @@ class Product:
 
         self.sales.extend(sale_list)
 
-    # id consists of a category and a serial number. format number of 0s
     @classmethod
     def generate_product_id(cls):
         """
         Generate product id with product category and serial number
         :return (string): product id
         """
-        id = f'{cls.category}{cls.next_serial_number:06}'
+        product_id = f'{cls.category}{cls.next_serial_number:06}'
         cls.next_serial_number += 1
-        return id
+        return product_id
 
-    # magic method
     def __str__(self):
         return f'{self.description}\n' \
                f'Product ID: {self.id}\n' \
@@ -88,8 +88,6 @@ class Product:
                f'Available in stock: {self.stock}'
 
     def __add__(self, other):
-        # description = f'{self.description} & {other.description}'
-        # list_price = self.list_price + other.list_price
         return Bundle(self, other)
 
     @property
@@ -115,7 +113,7 @@ class Product:
 class VideoGame(Product):
     """
     Represent a Video Game Product
-    Inherits from:  Product
+    Inherits from: Product
 
     Arguments:
     description (string): description of product
@@ -140,7 +138,7 @@ class VideoGame(Product):
 class Book(Product):
     """
     Represent a book product with author's name and numbers of pages
-    Inherits from:  Product
+    Inherits from: Product
 
     Arguments:
     author (string): the author's name
@@ -164,19 +162,16 @@ class Book(Product):
     category = 'BK'
     next_serial_number = 1
 
-    # magic method
     def __init__(self, description, author, pages, list_price):
         self.author = author
         self.pages = pages
         super().__init__(description, list_price)
 
-    # magic method
     def __gt__(self, other):
         if not isinstance(other, Book):
             return NotImplemented
         return self.pages > other.pages
 
-    # magic method
     def __lt__(self, other):
         if not isinstance(other, Book):
             return NotImplemented
@@ -185,8 +180,8 @@ class Book(Product):
 
 class Bundle(Product):
     """
-    Represent a b=Bundle of Products
-    Inherits from:  Product
+    Represent a Bundle of Products
+    Inherits from: Product
 
     Arguments:
     description (string): description of product
@@ -203,6 +198,7 @@ class Bundle(Product):
     id (string): product id consists of category and serial number
 
     """
+    # class variables
     category = 'BL'
     next_serial_number = 1
     bundle_discount = 20
@@ -221,3 +217,12 @@ class Bundle(Product):
             total += product.list_price
         self.list_price = total - (self.bundle_discount / 100 * total)
         super().__init__(self.description, self.list_price)
+
+    # What is the product id corresponding to the best_bundle? 
+    # Answer: product id of best_bundle is BL000006
+    # Why do you think that is the case?
+    # Answer: We call __add__ function 3 times and create 3 Bundle objects
+    # when we call "best_bundle = sunglasses + headphones + book1 + mario"
+    # Bundle id = BL000004 has sunglasses + headphones
+    # Bundle id = BL000005 has (sunglasses + headphones) + book1
+    # Bundle id = BL000006 has (sunglasses + headphones + book1) + mario

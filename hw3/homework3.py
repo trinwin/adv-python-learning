@@ -52,7 +52,8 @@ def has_duplicates(s):
     False
     otherwise
     """
-    return True if len([x for x in set(s) if s.count(x) > 1]) else False
+    # return True if len([x for x in set(s) if s.count(x) > 1]) else False
+    return len(s) != len(set(s))
 
 
 def remove_vowels(s):
@@ -75,7 +76,8 @@ def same_word_count(s1, s2):
     words
     and False otherwise
     """
-    return True if len(s1.split()) == len(s2.split()) else False
+    # return True if len(s1.split()) == len(s2.split()) else False
+    return len(s1.split()) == len(s2.split())
 
 
 def main():

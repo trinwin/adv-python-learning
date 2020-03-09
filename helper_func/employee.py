@@ -31,3 +31,4 @@ class Employee(object):
 
     def __getattribute__(self, attr_name):
         # Your code here
+        pass
