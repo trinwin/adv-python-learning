@@ -2,24 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8a03c1f-8e98-4f8e-a4b3-167372f924c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CS122.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS122.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper_func/demoargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper_func/grader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper_func/helloagain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/homework5 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/matchit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamlet.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper_func/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_func/employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper_func/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_func/generators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper_func/lecture10.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_func/lecture10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/homework3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/homework3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/homework4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/homework4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/interestcalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/interestcalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5/homework5.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw5/homework5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw6/homework6.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/homework6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw6/runme.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/runme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yesterday.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -46,71 +65,8 @@
       <recent name="$PROJECT_DIR$/helper_func" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.runme">
-    <configuration name="greeting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CS122" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helper_func" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helper_func/greeting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="homework4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CS122" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/homework4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="homework5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CS122" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/homework5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="homework5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.matchit">
+    <configuration name="blinking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blinking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="interestcalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw6/homework6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw2/interestcalc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="runme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matchit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,26 +116,61 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw6/runme.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw8/matchit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tagdemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tagdemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testhw4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CS122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testhw4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.runme" />
-        <item itemvalue="Python.homework6" />
-        <item itemvalue="Python.homework5" />
-        <item itemvalue="Python.homework4" />
-        <item itemvalue="Python.greeting" />
+        <item itemvalue="Python.matchit" />
+        <item itemvalue="Python.tagdemo" />
+        <item itemvalue="Python.blinking" />
+        <item itemvalue="Python tests.Unittests in testhw4.py" />
+        <item itemvalue="Python.interestcalc" />
       </list>
     </recent_temporary>
   </component>
@@ -200,53 +191,58 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1659" height="244" key="GridCell.Tab.0.bottom" timestamp="1583786237150">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1706" height="361" key="GridCell.Tab.0.bottom" timestamp="1585358341505">
+      <screen x="0" y="23" width="3440" height="1370" />
     </state>
-    <state width="1659" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237150" />
-    <state width="1765" height="451" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401385" />
+    <state width="1659" height="314" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671294" />
+    <state width="1693" height="449" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996457" />
     <state width="1659" height="307" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
-    <state width="1103" height="347" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909477" />
-    <state width="1659" height="244" key="GridCell.Tab.0.center" timestamp="1583786237149">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1706" height="361" key="GridCell.Tab.0.bottom/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341505" />
+    <state width="1659" height="306" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351083" />
+    <state width="1706" height="361" key="GridCell.Tab.0.center" timestamp="1585358341504">
+      <screen x="0" y="23" width="3440" height="1370" />
     </state>
-    <state width="1659" height="244" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237149" />
-    <state width="1765" height="451" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401384" />
+    <state width="1659" height="314" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671292" />
+    <state width="1693" height="449" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996457" />
     <state width="1659" height="307" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
-    <state width="1103" height="347" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909476" />
-    <state width="1659" height="244" key="GridCell.Tab.0.left" timestamp="1583786237149">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1706" height="361" key="GridCell.Tab.0.center/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341504" />
+    <state width="1659" height="306" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351082" />
+    <state width="1706" height="361" key="GridCell.Tab.0.left" timestamp="1585358341504">
+      <screen x="0" y="23" width="3440" height="1370" />
     </state>
-    <state width="1659" height="244" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237149" />
-    <state width="1765" height="451" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401383" />
+    <state width="1659" height="314" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671292" />
+    <state width="1693" height="449" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996456" />
     <state width="1659" height="307" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597663" />
-    <state width="1103" height="347" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909476" />
-    <state width="1659" height="244" key="GridCell.Tab.0.right" timestamp="1583786237150">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1706" height="361" key="GridCell.Tab.0.left/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341504" />
+    <state width="1659" height="306" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351081" />
+    <state width="1706" height="361" key="GridCell.Tab.0.right" timestamp="1585358341504">
+      <screen x="0" y="23" width="3440" height="1370" />
     </state>
-    <state width="1659" height="244" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583786237150" />
-    <state width="1765" height="451" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1583736401384" />
+    <state width="1659" height="314" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671293" />
+    <state width="1693" height="449" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996457" />
     <state width="1659" height="307" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
-    <state width="1103" height="347" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1582514909477" />
+    <state width="1706" height="361" key="GridCell.Tab.0.right/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341504" />
+    <state width="1659" height="306" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351082" />
     <state x="343" y="359" key="SettingsEditor" timestamp="1583120646188">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="343" y="359" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1583120646188" />
-    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1583720656306">
-      <screen x="0" y="23" width="3440" height="1417" />
+    <state x="1063" y="503" key="com.intellij.ide.util.TipDialog" timestamp="1586197622067">
+      <screen x="0" y="23" width="3440" height="1370" />
     </state>
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582743055261" />
-    <state x="1063" y="490" key="com.intellij.ide.util.TipDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1583104753335" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583792808697" />
+    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1585354883998" />
     <state x="519" y="372" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583184893485" />
-    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1583720656306" />
+    <state x="1063" y="503" key="com.intellij.ide.util.TipDialog/0.23.3440.1370@0.23.3440.1370" timestamp="1586197622067" />
+    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1584905902039" />
     <state x="305" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583781310955">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="305" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1583781310955" />
     <state x="624" y="644" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1440@0.0.3440.1440" timestamp="1583129723028" />
-    <state x="558" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1583724128405">
+    <state x="558" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1584906549654">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="558" y="331" width="670" height="676" key="search.everywhere.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1583724128405" />
+    <state x="558" y="331" width="670" height="676" key="search.everywhere.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1584906549654" />
   </component>
 </project>

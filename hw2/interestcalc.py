@@ -86,9 +86,13 @@ def cal_accrued_amount():
         formatted_amt = f'${accrued_amount:,.2f}'
         print(f"Accrued amount after {year_num} years: {formatted_amt:>17}")
 
+LETTER = ['A', 'B', 'C']
 def main():
     # The main function must be non-trivial
-    cal_accrued_amount()
+    # cal_accrued_amount()
+    assert len(LETTER) == 3, "internla"
+    print("hi")
+
 
 
 if __name__ == "__main__":

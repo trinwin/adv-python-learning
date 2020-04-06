@@ -172,11 +172,6 @@ class Book(Product):
             return NotImplemented
         return self.pages > other.pages
 
-    def __lt__(self, other):
-        if not isinstance(other, Book):
-            return NotImplemented
-        return self.pages < other.pages
-
 
 class Bundle(Product):
     """

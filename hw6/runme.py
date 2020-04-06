@@ -134,6 +134,11 @@ def main():
     back_to_school_bundle = backpack + book1
     print(back_to_school_bundle)
     print('')
+    print(sunglasses.list_price)
+    print(headphones.list_price)
+    print(book1.list_price)
+    print(mario.list_price)
+    print('')
     best_bundle = sunglasses + headphones + book1 + mario
     print(best_bundle)
     print('')
