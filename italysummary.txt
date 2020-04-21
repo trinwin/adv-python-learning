@@ -1,0 +1,18 @@
+Country: Italy
+Population:                    60,238,522
+Total Confirmed Cases:            183,957
+Total Deaths:                      24,268
+Cases per 100,000 people:             305.4
+Deaths per 100,000 people:             40.3
+An ongoing pandemic of coronavirus disease 2019 (COVID-19), a novel
+infectious disease caused by severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2), was first confirmed to have spread to Italy
+on 31 January 2020, when two Chinese tourists in Rome tested positive
+for the virus.[2] One week later an Italian man repatriated back to
+Italy from the city of Wuhan, China, was hospitalised and confirmed as
+the third case in Italy.[3] A cluster of cases was later detected,
+starting with 16 confirmed cases in Lombardy on 21 February,[4] and 60
+additional cases and the first deaths on 22 February.[5] By the
+beginning of March, the virus had spread to all regions of Italy.[6]
+
+

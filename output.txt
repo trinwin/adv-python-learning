@@ -1,0 +1,10 @@
+Country: Vietnam
+Population:                    96,208,984
+Total Confirmed Cases:                265
+Total Deaths:                           0
+Cases per 100,000 people:               0.3
+Deaths per 100,000 people:              0.0
+The 2019–20 coronavirus pandemic was confirmed to have spread to Vietnam 
+on 23 January 2020.[2] As of 13 April 2020,[update] there were 265 
+confirmed cases, with 145 recoveries and 0 deaths.[1]
+

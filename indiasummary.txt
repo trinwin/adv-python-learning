@@ -1,0 +1,16 @@
+Country: India
+Population:                 1,361,301,929
+Total Confirmed Cases:             18,985
+Total Deaths:                         603
+Cases per 100,000 people:               1.4
+Deaths per 100,000 people:              0.0
+The first case of the 2019–20 coronavirus pandemic in India was reported
+on 30 January 2020, originating from China. As of 21 April 2020, the
+Ministry of Health and Family Welfare have confirmed a total of 18,985
+cases, 3,260 recoveries (including 1 migration) and 603 deaths in the
+country.[5] Experts suggest the number of infections could be much
+higher as India's testing rates are among the lowest in the world.[8]
+The infection rate of COVID-19 in India is reported to be 1.7,
+significantly lower than in the worst affected countries.[9]
+
+

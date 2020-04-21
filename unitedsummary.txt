@@ -1,0 +1,55 @@
+Country: United States
+Population:                   329,555,588
+Total Confirmed Cases:            810,385
+Total Deaths:                      44,241
+Cases per 100,000 people:             245.9
+Deaths per 100,000 people:             13.4
+The ongoing pandemic of coronavirus disease 2019 (COVID-19), a novel
+infectious disease caused by severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2), spread to the United States in January 2020.
+Cases have occurred in all fifty U.S. states, the District of Columbia,
+and all inhabited U.S. territories except American Samoa.[5] All fifty
+states have received disaster declarations from the federal
+government.[6] The state of New York has seen over 15,000 deaths, more
+than any other state.
+
+
+Country: United Kingdom
+Population:                    66,435,550
+Total Confirmed Cases:            129,044
+Total Deaths:                      17,337
+Cases per 100,000 people:             194.2
+Deaths per 100,000 people:             26.1
+The ongoing pandemic of coronavirus disease 2019 (COVID-19) spread to
+the United Kingdom in late January 2020.[3] Transmission within the UK
+was confirmed in late February,[4] and the number of cases rose swiftly
+in March.[5] As of 20 April, there have been 124,743 confirmed cases in
+the UK[nb 3][2] and 17,337 people with confirmed infections have
+died,[nb 1][2] a rate of about 200 deaths per million population.[11]
+More than 90% of those dying have underlying illnesses[12] and are over
+60 years old.[13] There are large regional variations in the pandemic's
+severity. The capital, London, has the highest number and highest rate
+of infections.[14] England and Wales are the countries with the highest
+recorded death rate per capita, while Northern Ireland has the lowest
+recorded death rate.[15] Freedom of movement and assembly are restricted
+for the whole population, and most public venues are closed.
+
+
+Country: United Arab Emirates
+Population:                     9,890,400
+Total Confirmed Cases:              7,755
+Total Deaths:                          46
+Cases per 100,000 people:              78.4
+Deaths per 100,000 people:              0.5
+The first confirmed case of the pandemic of coronavirus disease 2019
+(COVID-19) in the United Arab Emirates was announced on 29 January 2020.
+It was the first country in the Middle East to report a confirmed
+case.[2] The first patient, a 73-year-old Chinese woman, was released on
+9 February after recovering. The first two deaths were confirmed on
+March 20. On 22 March, Dubai started an 11-day sterilisation campaign as
+an effort to contain the coronavirus. Night curfew was imposed 4 days
+later while the country began disinfection. School closure was first
+announced on March 8 for 4 weeks. 3 weeks later, it was announced that
+school will be closed until the end of the academic year.
+
+
