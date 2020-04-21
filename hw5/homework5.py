@@ -21,6 +21,7 @@ import random
 # Include the statement below at the top of the babble definition
 # random.seed(100)
 
+
 def main():
     # You may use the main function to test your function definitions.
     cs122 = {'Zoe': [90, 100, 75], 'Alex': [86, 90, 96],
@@ -35,35 +36,38 @@ def main():
 
 
 def top_midterm(grades):
-    return None if not grades else max(grades, key = lambda name: grades[name][2])
+    return None if not grades else max(grades, key=lambda name: grades[name][2])
+
 
 def longest_sequence(*args):
-     if not args:
+    if not args:
         return 0
 
-     nums = set(args)
-     num_of_counts = []
-     for i in nums:
-         if i-1 not in nums:
-             curr = i
-             count = 0
-             while curr in nums:
-                 curr+=1
-                 count+=1
-             num_of_counts.append(count)
+    nums = set(args)
+    num_of_counts = []
+    for i in nums:
+        if i-1 not in nums:
+            curr = i
+            count = 0
+            while curr in nums:
+                curr += 1
+                count += 1
+            num_of_counts.append(count)
 
-     return max(num_of_counts)
+    return max(num_of_counts)
+
 
 def encrypt(function):
     def wrapper(*args):
         result = function(*args)
         result = result.lower()
-        result = result.replace("e","")
+        result = result.replace("e", "")
         result = result.replace("s", "sa")
         result = result.split()
         result.reverse()
         return ' '.join(result)
     return wrapper
+
 
 @encrypt
 def greet(name):
@@ -73,6 +77,7 @@ def greet(name):
     :return: (string)
     """
     return f'Hello {name}'
+
 
 @encrypt
 def repeat(phrase, n):
@@ -85,6 +90,7 @@ def repeat(phrase, n):
     """
     words = phrase.split()
     return ' '.join(n * words)
+
 
 if __name__ == '__main__':
     main()

@@ -37,22 +37,22 @@ class PaintApp:
         # we save the button widgets in local variables since no other
         # method needs to access them
         green_button = tkinter.Button(color_frame, text='GREEN', width=10,
-                                      command= self.green)
+                                      command=self.green)
         # register it with a geometry manager
         green_button.grid(column=0, row=0)
         # create a GREEN button and associate it with the red method
         red_button = tkinter.Button(color_frame, text='RED', width=10,
-                                    command= self.red)
+                                    command=self.red)
         # register it with a geometry manager
         red_button.grid(column=1, row=0)
         # create a BLUE button and associate it with the blue method
         blue_button = tkinter.Button(color_frame, text='BLUE', width=10,
-                                     command= self.blue)
+                                     command=self.blue)
         # register it with a geometry manager
         blue_button.grid(column=2, row=0)
 
         # instantiate our Canvas widget with the root as parent
-        self.canvas= tkinter.Canvas(parent, width=300, height=300)
+        self.canvas = tkinter.Canvas(parent, width=300, height=300)
 
         # draw a rectangle on the canvas for the background
         self.canvas.create_rectangle(0, 0, 300, 300)
@@ -76,7 +76,7 @@ class PaintApp:
 
         # create an ERASER button and associate it with the erase method
         erase_button = tkinter.Button(parent, text='ERASER', width=30,
-                                      command= self.erase)
+                                      command=self.erase)
         # register it with a geometry manager
         erase_button.grid()
         # set the paint color to the default color
@@ -113,6 +113,7 @@ def main():
     painting = PaintApp(root)
     # enter the main event loop and wait for events
     root.mainloop()
+
 
 if __name__ == '__main__':
     main()

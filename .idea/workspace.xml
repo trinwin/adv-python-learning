@@ -2,30 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8a03c1f-8e98-4f8e-a4b3-167372f924c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helper_func/demoargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper_func/grader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper_func/helloagain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5/homework5 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/SJSUimages/sjsu9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/fewerimages/sjsu4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/matchit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/interestcalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/interestcalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui_demo/paint.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_demo/paint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui_demo/tagdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_demo/tagdemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw5/homework5.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw5/homework5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw6/homework6.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/homework6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw6/runme.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/runme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/SJSUimages/sjsu9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/SJSUimages/sjsu9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/fewerimages/sjsu1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/fewerimages/sjsu1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/fewerimages/sjsu2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/fewerimages/sjsu2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/fewerimages/sjsu3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/fewerimages/sjsu3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/fewerimages/sjsu4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/fewerimages/sjsu4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/matchit.py" beforeDir="false" afterPath="$PROJECT_DIR$/matchit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +50,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/gui_demo" />
       <recent name="$PROJECT_DIR$/venv" />
       <recent name="$PROJECT_DIR$/helper_func" />
     </key>
@@ -78,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blinking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_demo/blinking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw8/matchit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matchit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tagdemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_demo/tagdemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in testhw4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in /Users/TrinhNg/Desktop/workspace/pycharm/CS122/testhw4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="CS122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +164,7 @@
         <item itemvalue="Python.matchit" />
         <item itemvalue="Python.tagdemo" />
         <item itemvalue="Python.blinking" />
-        <item itemvalue="Python tests.Unittests in testhw4.py" />
+        <item itemvalue="Python tests.Unittests in /Users/TrinhNg/Desktop/workspace/pycharm/CS122/testhw4.py" />
         <item itemvalue="Python.interestcalc" />
       </list>
     </recent_temporary>
@@ -191,47 +186,47 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1706" height="361" key="GridCell.Tab.0.bottom" timestamp="1585358341505">
-      <screen x="0" y="23" width="3440" height="1370" />
+    <state width="1830" height="226" key="GridCell.Tab.0.bottom" timestamp="1586217477377">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1659" height="314" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671294" />
-    <state width="1693" height="449" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996457" />
+    <state width="1659" height="154" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586198892955" />
+    <state width="1830" height="226" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1586217477377" />
     <state width="1659" height="307" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
     <state width="1706" height="361" key="GridCell.Tab.0.bottom/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341505" />
     <state width="1659" height="306" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351083" />
-    <state width="1706" height="361" key="GridCell.Tab.0.center" timestamp="1585358341504">
-      <screen x="0" y="23" width="3440" height="1370" />
+    <state width="1830" height="226" key="GridCell.Tab.0.center" timestamp="1586217477376">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1659" height="314" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671292" />
-    <state width="1693" height="449" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996457" />
+    <state width="1659" height="154" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586198892954" />
+    <state width="1830" height="226" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1586217477376" />
     <state width="1659" height="307" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
     <state width="1706" height="361" key="GridCell.Tab.0.center/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341504" />
     <state width="1659" height="306" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351082" />
-    <state width="1706" height="361" key="GridCell.Tab.0.left" timestamp="1585358341504">
-      <screen x="0" y="23" width="3440" height="1370" />
+    <state width="1830" height="226" key="GridCell.Tab.0.left" timestamp="1586217477375">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1659" height="314" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671292" />
-    <state width="1693" height="449" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996456" />
+    <state width="1659" height="154" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586198892953" />
+    <state width="1830" height="226" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1586217477375" />
     <state width="1659" height="307" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597663" />
     <state width="1706" height="361" key="GridCell.Tab.0.left/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341504" />
     <state width="1659" height="306" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351081" />
-    <state width="1706" height="361" key="GridCell.Tab.0.right" timestamp="1585358341504">
-      <screen x="0" y="23" width="3440" height="1370" />
+    <state width="1830" height="226" key="GridCell.Tab.0.right" timestamp="1586217477377">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1659" height="314" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583795671293" />
-    <state width="1693" height="449" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1584908996457" />
+    <state width="1659" height="154" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586198892954" />
+    <state width="1830" height="226" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1586217477377" />
     <state width="1659" height="307" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583196597664" />
     <state width="1706" height="361" key="GridCell.Tab.0.right/0.23.3440.1370@0.23.3440.1370" timestamp="1585358341504" />
     <state width="1659" height="306" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1584397351082" />
-    <state x="343" y="359" key="SettingsEditor" timestamp="1583120646188">
+    <state x="1337" y="194" key="SettingsEditor" timestamp="1586217475958">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="343" y="359" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1583120646188" />
-    <state x="1063" y="503" key="com.intellij.ide.util.TipDialog" timestamp="1586197622067">
-      <screen x="0" y="23" width="3440" height="1370" />
+    <state x="1337" y="194" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1586217475958" />
+    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1587192157623">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583792808697" />
-    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1585354883998" />
+    <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1587192157623" />
     <state x="519" y="372" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583184893485" />
     <state x="1063" y="503" key="com.intellij.ide.util.TipDialog/0.23.3440.1370@0.23.3440.1370" timestamp="1586197622067" />
     <state x="1063" y="505" key="com.intellij.ide.util.TipDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1584905902039" />
